@@ -67,10 +67,12 @@ Apple 플랫폼(macOS · iOS)과 저지연 시스템/네트워킹을 만드는 �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeasop0301&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeasop0301&layout=compact&langs_count=8&hide_border=true&title_color=F97316&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeasop0301&theme=github_dark" alt="profile summary" />
 
-<img src="https://streak-stats.demolab.com/?user=jeasop0301&hide_border=true&background=0d1117&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeasop0301&theme=github_dark" alt="repos per language" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeasop0301&theme=github_dark" alt="most commit language" />
+
+<img width="800" src="https://streak-stats.demolab.com/?user=jeasop0301&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
 
