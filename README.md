@@ -23,6 +23,8 @@ Apple 플랫폼(**macOS · iOS**)과 저지연 시스템을 만드는 인디 개
 - **로컬 우선 · 프라이버시** — 계정도, 원격 텔레메트리도 없이.
 - **작고 뾰족한 도구** — 하나를 제대로 하는 메뉴바 앱과 CLI.
 
+> **Now** — Kelvin의 배터리 코치와 betterparsec의 저지연 전송을 다듬는 중.
+
 <br>
 
 ## Tech Stack
@@ -74,7 +76,16 @@ iPhone의 셀룰러 연결로 Mac의 트래픽을 라우팅하는 테더링 앱.
 
 <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeasop0301&theme=github_dark_dimmed" alt="profile summary" />
 
-<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeasop0301&theme=github_dark_dimmed" alt="most used languages" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeasop0301&theme=github_dark_dimmed" alt="most used languages" />
+<img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeasop0301&theme=github_dark_dimmed" alt="most commit language" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeasop0301/jeasop0301/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeasop0301/jeasop0301/output/github-snake.svg" />
+  <img width="820" alt="contribution snake" src="https://raw.githubusercontent.com/jeasop0301/jeasop0301/output/github-snake.svg" />
+</picture>
 
 </div>
 
