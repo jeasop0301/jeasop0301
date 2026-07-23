@@ -10,6 +10,11 @@
   <a href="https://github.com/jeasop0301?tab=followers"><img src="https://img.shields.io/github/followers/jeasop0301?label=Follow&style=flat-square&color=6b7280" alt="followers" /></a>
 </p>
 
+<p>
+  <a href="mailto:jeasop0301@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/jeasop0301"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
 </div>
 
 <br>
@@ -50,23 +55,48 @@ Apple 플랫폼(**macOS · iOS**)과 저지연 시스템을 만드는 인디 개
 
 ## Projects
 
-#### 🌡️ [Kelvin](https://github.com/jeasop0301/thermomole) &nbsp;<sub>`Swift` · macOS</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Apple Silicon 맥용 메뉴바 온도·배터리·메모리 모니터. 맥을 열화상 카메라처럼 읽고, 계정·원격 텔레메트리·조작된 숫자 없이 정직한 가이드를 줍니다. `kelvin status / history / coach` CLI 포함.
+**🌡️ [Kelvin](https://github.com/jeasop0301/thermomole)** &nbsp;<sub>`Swift` · macOS</sub>
+
+Apple Silicon 맥용 메뉴바 온도·배터리·메모리 모니터. 맥을 열화상 카메라처럼 읽고, 조작된 숫자 없이 정직하게. `kelvin` CLI 포함.
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 [betterparsec](https://github.com/jeasop0301/betterparsec)** &nbsp;<sub>`Rust`</sub>
+
+Parsec을 대체하는 초저지연 원격 데스크톱/게임 스트리밍 스택. WebRTC·Sunshine·커스텀 저비트레이트 프로토콜·FEC.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📶 [CelRoute](https://github.com/jeasop0301/celroute-support)** &nbsp;<sub>`Swift` · iOS + macOS</sub>
+
+iPhone의 셀룰러 연결로 Mac의 트래픽을 라우팅하는 테더링 앱. 개인정보를 로컬에 두는 설계.
+
+</td>
+<td width="50%" valign="top">
+
+**📚 [모든 저장소 →](https://github.com/jeasop0301?tab=repositories)**
+
+공개 프로젝트 전체를 둘러보세요.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="./assets/kelvin-popover.png" width="290" alt="Kelvin popover" />
   &nbsp;&nbsp;
   <img src="./assets/kelvin-history.png" width="410" alt="Kelvin thermal history" />
+  <br>
+  <sub>🌡️ <b>Kelvin</b> — 메뉴바 카드와 20–50° 고정 스케일 온도 히스토리</sub>
 </div>
-
-#### 🎮 [betterparsec](https://github.com/jeasop0301/betterparsec) &nbsp;<sub>`Rust`</sub>
-
-Parsec을 대체하는 초저지연 원격 데스크톱/게임 스트리밍 스택. WebRTC 전송, Sunshine/Moonlight 호환, 커스텀 저비트레이트 프로토콜과 FEC 프레이밍.
-
-#### 📶 [CelRoute](https://github.com/jeasop0301/celroute-support) &nbsp;<sub>`Swift` · iOS + macOS</sub>
-
-iPhone의 셀룰러 연결로 Mac의 트래픽을 라우팅하는 테더링 앱. 개인정보를 로컬에 두는 설계.
 
 <br>
 
@@ -78,6 +108,8 @@ iPhone의 셀룰러 연결로 Mac의 트래픽을 라우팅하는 테더링 앱.
 
 <img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeasop0301&theme=github_dark_dimmed" alt="most used languages" />
 <img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeasop0301&theme=github_dark_dimmed" alt="most commit language" />
+
+<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=jeasop0301&bg_color=22272e&color=F97316&line=F97316&point=ffffff&area=true&area_color=F97316&title_color=F97316&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
 
 <br><br>
 
@@ -101,4 +133,3 @@ iPhone의 셀룰러 연결로 Mac의 트래픽을 라우팅하는 테더링 앱.
 ---
 
 <div align="center"><sub><i>Unmeasured is absent, never a fabricated zero.</i></sub></div>
-
